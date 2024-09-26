@@ -1,5 +1,7 @@
 # a06: Create a GitHub Profile!
 
+As you saw in class, your GitHub profile is your central place to showcase your computer science work and skills. Your profile page can be seen by fellow students, collaborators, and potential employers! For this reason, it is extremely important to set up a nice GitHub profile. Throughout this assignment, you will get to create your own very own GitHub profile! You will get to explore your fellow students' profiles once the assignment is completed. 
+
 ## Set up your Profile (15pts)
 
 The first step of creating your GitHub profile is to input your information! You want to complete the following steps:
@@ -93,5 +95,3 @@ We will grade on this criteria:
 1. **About Section** (10pts)
 2. **Classes** (5pts)
 3. **Tools and Programming Languages** (5 pts)
-
-
