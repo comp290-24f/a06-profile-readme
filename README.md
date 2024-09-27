@@ -6,18 +6,19 @@ As you saw in class, your GitHub profile is your central place to showcase your 
 
 The first step of creating your GitHub profile is to input your information! You want to complete the following steps:
 
-1. **Set a Profile Picture (5pts)**: The profile picture is a great way to personalize your profile, and it helps identify you across GitHub in pull requests and comments. Profiles with profile pictures have greater visibility and helps your profile to appear more professional. Try to use a photo including your face that is presentable in a reasonably professional setting.
+1. **Set a Profile Picture (3pts)**: The profile picture is a great way to personalize your profile, and it helps identify you across GitHub in pull requests and comments. Profiles with profile pictures have greater visibility and helps your profile to appear more professional. Try to use a photo including your face that is presentable in a reasonably professional setting.
     1. In the upper-right corner of any page on GitHub, click your profile photo, then click Settings.
     2. Under "Profile Picture", select  Edit, then click Upload a photo....
     3. Select an image, then click Upload. 
     4. Crop your picture.
     5. Click Set new profile picture.
+*Note: Points will be rewarded even if you do not feel comfortable including a a photo.*
 
 2. **Include your Name: (2pts)**: By default, GitHub profiles may only include a lowercased username. Make sure to input your name in the appropriate field with proper casing.
     1. In the upper-right corner of any page on GitHub, click your profile photo, then click Settings.
     2. Under "Public profile", in the "Name" field, type the name you want to be displayed on your profile.
 
-3. **Update your Bio (2pts)**: Add a bio to your profile to share information about yourself with other GitHub users! You can include @mentions (to mention organizations or other people), as well as emojis. Bios are very short, so provide a very quick description about you! It is common to include information such as your major / school, as well as a company or organization, if you are a part of it. For example, "CS major @ UNC".
+3. **Update your Bio (4pts)**: Add a bio to your profile to share information about yourself with other GitHub users! You can include @mentions (to mention organizations or other people), as well as emojis. Bios are very short, so provide a very quick description about you! It is common to include information such as your major / school, as well as a company or organization, if you are a part of it. For example, "CS major @ UNC".
     1. In the upper-right corner of any page on GitHub, click your profile photo, then click Settings.
     2. Under "Public profile", in the "Bio" field, type the content that you want displayed on your profile. The bio field is limited to 160 characters.
     3. Click Update profile.
