@@ -12,7 +12,8 @@ The first step of creating your GitHub profile is to input your information! You
     3. Select an image, then click Upload. 
     4. Crop your picture.
     5. Click Set new profile picture.
-*Note: Points will be rewarded even if you do not feel comfortable including a a photo.*
+
+  **Note: Points will be rewarded even if you do not feel comfortable including a a photo.**
 
 2. **Include your Name: (2pts)**: By default, GitHub profiles may only include a lowercased username. Make sure to input your name in the appropriate field with proper casing.
     1. In the upper-right corner of any page on GitHub, click your profile photo, then click Settings.
